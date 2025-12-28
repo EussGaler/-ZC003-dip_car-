@@ -1,0 +1,2 @@
+dip_car
+-DCATKIN_DEVEL_PREFIX=/home/zdh/dip_car/devel -DCMAKE_INSTALL_PREFIX=/home/zdh/dip_car/install -G Unix Makefiles
